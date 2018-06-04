@@ -23,6 +23,10 @@ repositories {
 	mavenCentral()
 }
 
+dependencyLocking {
+    lockAllConfigurations()
+}
+
 
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter')
