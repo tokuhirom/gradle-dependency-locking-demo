@@ -4,6 +4,8 @@ https://docs.gradle.org/4.8/userguide/dependency_locking.html
 
 を参考に実際に動かすとこんな感じだよ、というののデモ的なレポジトリです。
 
+実際にどのような感じになるのかについては https://github.com/tokuhirom/gradle-dependency-locking-demo/commits/master から参照してください
+
 ## 雛形作成。
 
 start.spring.io で雛形を作成。
